@@ -80,7 +80,7 @@ div.thumbcaption{
 }
 
 div.suggestions-results, div.special-query, div.special-label, div.suggestions-special{
-	background: grey !important;
+	background: #808080 !important;
 }
 
 div.special-label{
