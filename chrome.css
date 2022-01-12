@@ -19,7 +19,7 @@ td{
 	color: #FFF !important;
 }
 
-h2, div.plainlinks, div.catlinks{
+h2, div.plainlinks, div.catlinks, div#mp-topbanner, div#mp-lower{
 	color: #FFF !important;
 	background: #303338 !important;
 	border-color: #4C5159 !important;
